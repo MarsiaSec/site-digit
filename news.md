@@ -1,7 +1,7 @@
 ---
 title: ACTUALITÉS
 layout: news
-description: 'Vous trouverez ici toutes les prochaines dates de concert, ainsi que toutes les dernières nouveautés du groupe.'
+description: 'Toutes les prochaines dates de concert, sorties et nouveautés du groupe.'
 image: assets/images/news.jpeg
 nav-menu: true
 ---

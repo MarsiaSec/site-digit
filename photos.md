@@ -1,7 +1,7 @@
 ---
 title: PHOTOS
 layout: photos
-description: Lorem ipsum dolor est
+description: 
 image: assets/images/IMG_3762.jpg
 nav-menu: true
 ---
