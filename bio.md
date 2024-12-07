@@ -2,7 +2,7 @@
 layout: bio
 title: BIOGRAPHIE
 description: Qui sont-ils, ou vont-ils, l'histoire
-image: assets/images/bio.png
+image: assets/images/bio.jpg
 nav-menu: true
 ---
 
@@ -15,9 +15,6 @@ nav-menu: true
             <div class="">
                 <p>L'aventure des Digitipus in Nazoo commence au lycée où Xavier et Florent, qui découvrent les Doors et Pixies, décident de faire du boucan dans leur garage. Ils sont rapidement rejoints par Arnaud le frangin qui n'arrive plus à pioncer. Un premier batteur Bertrand Chavanelle vient remplacer les machines puis Alvaro Cerda reprend les baguettes pour écumer les scènes locales et mener le groupe jusqu’à la scène du Ricard Live Music… Plusieurs enregistrements studio concrétisent cette période, "La danse du couteau" en 1991, et la compilation "Sarmagatha veille sur toi" en 1993… A la fin de l’été 1993, le groupe se sépare pour mieux renaitre 20 ans plus tard… Renaissance du groupe en 2013 autour d’un projet d'album et de concerts. Août 2015 : sortie de l'album "L'éternité la pluie" (13 titres), retour sur scène... Juin 2017 : sortie de l'album "Porno Capital" (8 titres). Janvier	2020, sortie de "Malibu Sheba Wasabi Bleu", une ode vibrante en 12 tableaux… On y retrouve toutes les préférences de la bande dans un déluge de riffs acides et de basses bondissantes. Avec le trio « historique », c’est Régis Gueyffier qui tient les baguettes.</p>
             </div>
-            <!--
-            <div class="4u"><span class="image right"><img src="{% link assets/images/DSCF5110.JPG %}" alt="" /></span></div>
-            -->
         </div>
     </div>
 </section>

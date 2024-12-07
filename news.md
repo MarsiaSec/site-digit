@@ -2,7 +2,7 @@
 title: ACTUALITÉS
 layout: news
 description: 'Toutes les prochaines dates de concert, sorties et nouveautés du groupe.'
-image: assets/images/news.jpeg
+image: assets/images/news.jpg
 nav-menu: true
 ---
 
@@ -10,7 +10,9 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/what1.jpeg %}" alt="" data-position="center center" />
+			{% comment %}
+			<!--<img src="{% link %}" alt="" data-position="center center" /> -->
+			{% endcomment %}
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -26,7 +28,9 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
+			{% comment %}
 			<img src="{% link assets/images/what1.jpeg %}" alt="" data-position="top center" />
+			{% endcomment %}
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -42,7 +46,9 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
+			{% comment %}
 			<img src="{% link assets/images/what1.jpeg %}" alt="" data-position="25% 25%" />
+			{% endcomment %}
 		</a>
 		<div class="content">
 			<div class="inner">
