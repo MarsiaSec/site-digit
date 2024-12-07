@@ -25,7 +25,7 @@ nav-menu: true
             {% for image in photos %}
                 <div class="4u">
                         <span class="image fit">
-                            <img src="{{image.path }}" alt="" />
+                            <img src=" {{ site.baseurl }}{{ image.path }}" alt="" />
                         </span>
                 </div>
             {% endfor %}
