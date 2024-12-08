@@ -2,7 +2,7 @@
 title: PHOTOS
 layout: photos
 description: 
-image: assets/images/IMG_3762.jpg
+image: assets/images/024_digitipus.jpg
 nav-menu: true
 ---
 
