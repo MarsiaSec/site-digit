@@ -10,7 +10,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/concert_leprogres.jpg %}" alt="" data-position="center center" /> 
+			<img src="{% link assets/images/011_digitipus.jpg %}" alt="" data-position="center center" /> 
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -26,7 +26,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/release_party_rockneat.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/035_digitipus.jpg %}" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
@@ -42,7 +42,7 @@ nav-menu: true
 	</section>
 	<section>
 		<a href="generic.html" class="image">
-			<img src="{% link assets/images/pochette_sourate_safran.jpeg %}" alt="" data-position="25% 25%" />
+			<img src="{% link assets/images/033_digitipus.jpg%}" alt="" data-position="25% 25%" />
 		</a>
 		<div class="content">
 			<div class="inner">
