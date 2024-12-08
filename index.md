@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title: Accueil
 landing-title: 'PROCHAINS CONCERTS'
 description: null
 image: null
