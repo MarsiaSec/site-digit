@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Accueil
-landing-title: 'PROCHAINS CONCERTS'
+landing-title: 'DIGITIPUS IN NAZOO'
 description: null
 image: null
 author: null
