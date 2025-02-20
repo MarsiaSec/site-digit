@@ -1,0 +1,61 @@
+---
+title: ACTUALITÉS
+layout: news
+description: 'Toutes les prochaines dates de concert, sorties et nouveautés du groupe.'
+image: assets/images/news.jpg
+nav-menu: true
+---
+
+<section id="two" class="spotlights">
+	{% for post in site.posts %}
+	<section>
+		<a href="{{ post.url }}" class="image">
+			<img src="{{ post.image }}" alt="" data-position="center center"/>
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>{{ post.url }}</h3>
+				</header>
+					<p>{{ post.description }}<p>
+				<ul class="actions">
+					<li><a href="{{ post.url }}" class="button">En savoir plus</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	{% endfor %}
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/035_digitipus.jpg %}" alt="" data-position="top center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Concert à La Vache Rouge</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="news_3.html" class="button">En savoir plus</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+	<section>
+		<a href="generic.html" class="image">
+			<img src="{% link assets/images/035_digitipus.jpg%}" alt="" data-position="25% 25%" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Release party au Rockn'eat</h3>
+				</header>
+				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<ul class="actions">
+					<li><a href="news2.html" class="button">En savoir plus</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+</section>
+

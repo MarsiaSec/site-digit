@@ -72,6 +72,7 @@
 
 		@include breakpoint(xlarge) {
 			> section {
+			margin: 0vw 10vw;
 				> .image {
 					width: 40%;
 				}
@@ -84,6 +85,7 @@
 
 		@include breakpoint(large) {
 			> section {
+			margin: 0vw 10vw;
 				> .image {
 					width: 45%;
 				}

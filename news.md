@@ -6,55 +6,28 @@ image: assets/images/news.jpg
 nav-menu: true
 ---
 
-<!-- Two -->
 <section id="two" class="spotlights">
+	{% for post in site.posts %}
 	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/011_digitipus.jpg %}" alt="" data-position="center center" /> 
+		<a href="{{ site.baseurl }}{{ post.url }}" class="image fit">
+			<img src="{{ post.image }}" alt="" data-position="center center"/>
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Concert du 15 janvier</h3>
+					<h3>{{ post.title}}</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+					<p>{{ post.description }}</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">En savoir plus</a></li>
+					<li><a href="{{ site.baseurl }}{{ post.url }}" class="button">En savoir plus</a></li>
 				</ul>
 			</div>
 		</div>
 	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/035_digitipus.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Release party au Rock n Eat</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">En savoir plus</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="{% link assets/images/033_digitipus.jpg%}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sortie de l'album Sourate Safran</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="generic.html" class="button">En savoir plus</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
+	{% endfor %}
+			<!--
+	<img src="{% link assets/images/035_digitipus.jpg %}" alt="" data-position="top center" />
+			<img src="{% link assets/images/035_digitipus.jpg%}" alt="" data-position="25% 25%" />
+	 -->
 </section>
 

@@ -4,7 +4,7 @@ subtitle:
 description:
 baseurl: "/site-digit" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author:
+author: Digitipus In Nazoo
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
