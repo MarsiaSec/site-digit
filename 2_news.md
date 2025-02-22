@@ -25,9 +25,5 @@ nav-menu: true
 		</div>
 	</section>
 	{% endfor %}
-			<!--
-	<img src="{% link assets/images/035_digitipus.jpg %}" alt="" data-position="top center" />
-			<img src="{% link assets/images/035_digitipus.jpg%}" alt="" data-position="25% 25%" />
-	 -->
 </section>
 

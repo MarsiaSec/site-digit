@@ -3,12 +3,12 @@ title: Digitipus In Nazoo
 subtitle:
 description:
 baseurl: "/site-digit" # the subpath of your site, e.g. /blog
-url: # the base hostname & protocol for your site
+url: digitipusinnazoo.fr # the base hostname & protocol for your site
 author: Digitipus In Nazoo
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 6
+tiles-count: 5
 
 # social settings (key must match name of font awesome icon)
 # see https://fontawesome.com/icons?d=gallery&p=2&s=brands
@@ -36,7 +36,7 @@ exclude:
 defaults:
   - scope:
       path: "assets/images"
-  - values:
+    values:
       image: true
 
 

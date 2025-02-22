@@ -2,7 +2,7 @@
 layout: post
 title: Sourate Safran
 description: Sortie album Sourate Safran
-image: assets/images/033_digitipus.jpg
+image: assets/images/pochette_sourate_safran.jpg
 ---
 
 Les premières compo de cet album ont émergé en décembre 2022. Ce projet voit l’arrivée d’un nouveau bassiste Laurent.
@@ -13,6 +13,8 @@ Les 10 titres ont été finalisés au printemps 2024 et le groupe a choisi pour 
 
 C’est Laurent Poussineau -studio Homely Records situé à Vénissieux (69)- qui a su capter l’énergie du groupe et apporter sa touche lors des 4 journées d’enregistrement fin août 2024.
 Altho Studio (Lyon) s’est chargé du mastering fin septembre 2024.
+
+![homely_records](/site-digit/assets/images/022_digitipus.jpg)
 
 C’est Victoria Renaud artiste graphiste & maquettiste qui a produit la pochette de l’album.
 Elle a su traduire toute la dualité, le yin et le yang dans le même cercle.
