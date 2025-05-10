@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sourate Safran
-description: Sortie album Sourate Safran
+description: Sortie du nouvel album « Sourate Safran ».
 image: assets/images/pochette_sourate_safran.jpg
 ---
 
@@ -18,6 +18,10 @@ Altho Studio (Lyon) s’est chargé du mastering fin septembre 2024.
 
 C’est Victoria Renaud artiste graphiste & maquettiste qui a produit la pochette de l’album.
 Elle a su traduire toute la dualité, le yin et le yang dans le même cercle.
+
+## Quelques clés pour s’approprier les textes de l’album
+
+Poète de l’impossible, Xavier nous plonge dans ses aspirations profondes au cœur de notre condition humaine. Une prose authentique ou la quête de la liberté sous toutes ses formes est incarnée par des personnages plongés dans la schizophrénie dominante.
 
 La lumière dans les ténèbres, le père qui aime et tue (Ferdinand aimait les fleurs), Marylin qui monte et qui tombe (Sourate Safran), le maître qui devient esclave (Santa Carne), le schizo qui veut sauver le monde (Oxford et autre), l’amour et la domination dans les flammes (Un navire dans le feu), la fille qui les aime tous mais pas un seul (Mademoiselle B), le dealer poète (Splendeur), celui qui reste et qui part (Sous le soleil de Platon), le révolutionnaire à l’hôtel (Frizzante), le tueur qui n’a tué personne (D’étranges bagages).
 
