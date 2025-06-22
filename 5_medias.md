@@ -1,7 +1,6 @@
 ---
 title: MEDIAS
 layout: bio
-description: Actu media
 image: assets/images/banniere_media.jpg
 nav-menu: true
 ---
@@ -26,9 +25,9 @@ nav-menu: true
 
 ## Podcasts
 
-- [video](https://www.youtube.com/watch?v=aESiozmzGo4)
-- [podcast](https://www.radio-b.fr/podcast-21573)
-- [podcast](https://audioblog.arteradio.com/blog/98611/podcast/241932/musik-etc-du-5-janvier-2025-avec-digitipus-in-nazoo-sur-radio-canut)
+- [Video Le Projotirock](https://www.youtube.com/watch?v=aESiozmzGo4)
+- [Podcast Radio B](https://www.radio-b.fr/podcast-21573)
+- [Podcast Radio Canut](https://audioblog.arteradio.com/blog/98611/podcast/241932/musik-etc-du-5-janvier-2025-avec-digitipus-in-nazoo-sur-radio-canut)
 
 ## Kit media
 

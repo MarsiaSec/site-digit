@@ -5,7 +5,7 @@ description:
 image: assets/images/028_digitipus.jpg
 nav-menu: true
 ---
-
+<div style="display:flex;justify-content:center;align-items:center;flex-direction:column;gap:1rem;">
 <iframe width="560" height="315" src="https://www.youtube.com/embed/X6fPJEjSFsA?si=H3bqnKfD3Ej0EuOC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/qSQryML4_Fs?si=BbkDo4Faq71FFU9A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
@@ -23,3 +23,4 @@ nav-menu: true
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a_4clQLTnyI?si=DdBd3ASeE-DJbt8T" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/59R4giV45r8?si=SR68PGv0RVuLZfls" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+</div>
