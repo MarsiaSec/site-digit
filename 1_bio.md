@@ -20,12 +20,13 @@ nav-menu: true
                     sur des machines puis sont rapidement rejoints par Arnaud le frangin à la basse et Bertrand
                     à la batterie.
                 </p>
-                <div style="color:white;">
-                    <img src="assets/images/032_digitipus.jpg" width="24%">
-                    <img src="assets/images/014_digitipus.jpg" width="25%">
-                    <img src="assets/images/036_digitipus.jpg" width="25%">
-                    <img src="assets/images/019_digitipus.jpg" width="24%">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr))">
+                    <img src="assets/images/032_digitipus.jpg">
+                    <img src="assets/images/014_digitipus.jpg">
+                    <img src="assets/images/036_digitipus.jpg">
+                    <img src="assets/images/019_digitipus.jpg">
                 </div>
+                <br>
                 <h4>Lineup</h4>
                 <p>
                     Xavier Perret : Chant<br>
@@ -39,9 +40,12 @@ nav-menu: true
                     écumer les scènes locales et mener le groupe jusqu’à la scène du Ricard Live Music à
                     Eurexpo en 1992.
                 </p>
-                <img src="assets/images/004_digitipus.jpg" width="33%">
-                <img src="assets/images/007_digitipus.jpg" width="33%">
-                <img src="assets/images/011_digitipus.jpg" width="33%">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr))">
+                    <img src="assets/images/004_digitipus.jpg">
+                    <img src="assets/images/007_digitipus.jpg">
+                    <img src="assets/images/011_digitipus.jpg">
+                </div>
+                <br>
                 <p>
                     Plusieurs enregistrements studio concrétisent cette période.
                 </p>
@@ -53,13 +57,16 @@ nav-menu: true
                 <p>
                     Compilation &quot;Sarmagatha veille sur toi&quot; en 1993.
                 </p>
-                <img src="assets/images/015_digitipus.jpg" width="50%">
-                <img src="assets/images/043_digitipus.jpg" width="49%">
-                <img src="assets/images/020_digitipus.jpg" width="33%">
-                <img src="assets/images/044_digitipus.jpg" width="33%">
-                <img src="assets/images/045_digitipus.jpg" width="33%">
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr))">
+                <img src="assets/images/015_digitipus.jpg">
+                <img src="assets/images/043_digitipus.jpg">
+                <img src="assets/images/020_digitipus.jpg">
+                <img src="assets/images/044_digitipus.jpg">
+                <img src="assets/images/045_digitipus.jpg">
+                </div>
+                <br>
                 <p>
-                    A la fin de l’été 1993, le groupe se sépare pour mieux renaitre 20 ans plus tard…
+                    À la fin de l’été 1993, le groupe se sépare pour mieux renaitre 20 ans plus tard…
                 </p>
                 <h4>Lineup</h4>
                 <p>
@@ -73,8 +80,7 @@ nav-menu: true
     </div>
 </section>
 
-
-## Ou vont-ils ?
+## Où vont-ils ?
 
 Tel le Phénix, le groupe renait en 2013 dans sa formation originelle et autour d’un projet
 d&#39;album et de concerts.
@@ -88,13 +94,14 @@ retour sur la scène du Ninkasi Kao à 2 reprises au printemps 2016. L’univers
 l’album est réalisé par Anne Loève, performeuse en fresque urbaine. Le clip de «Exode
 acide» est réalisé par Christophe Carry (ex flancs tireurs).
 <br>
-<img src="assets/images/010_digitipus.jpg" width="50%">
-<img src="assets/images/012_digitipus.jpg" width="49%">
-<img src="assets/images/016_digitipus.jpg" width="33%">
-<img src="assets/images/018_digitipus.jpg" width="33%">
-<img src="assets/images/009_digitipus.jpg" width="33%">
-
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr))">
+<img src="assets/images/010_digitipus.jpg">
+<img src="assets/images/012_digitipus.jpg">
+<img src="assets/images/016_digitipus.jpg">
+<img src="assets/images/018_digitipus.jpg">
+<img src="assets/images/009_digitipus.jpg">
+</div>
+<br>
 
 #### Lineup
 
@@ -105,17 +112,20 @@ Bertrand Chavanelle : Batterie
 
 ### 2017
 
-Juin 2017, le groupe sort un 2 ème album &quot;Porno Capital&quot; (8 titres). Ce sont Erik et Régis qui se
+Juin 2017, le groupe sort un deuxième album &quot;Porno Capital&quot; (8 titres). Ce sont Erik et Régis qui se
 collent à la batterie. Il y a dans cet album un mélange réussi entre des titres à la résonnance
 pop/rock comme «Là-haut l’étoile» ou «l’impossibilité des centaures» et des titres
 marquants comme «Novembre» (en référence aux événements du 13/11/2015) et
 «Eurozone opus 5w40».
 <br>
-<img src="assets/images/026_digitipus.jpg" width="50%">
-<img src="assets/images/030_digitipus.jpg" width="49%">
-<img src="assets/images/027_digitipus.jpg" width="33%">
-<img src="assets/images/031_digitipus.jpg" width="33%">
-<img src="assets/images/034_digitipus.jpg" width="33%">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr))">
+<img src="assets/images/026_digitipus.jpg">
+<img src="assets/images/030_digitipus.jpg">
+<img src="assets/images/027_digitipus.jpg">
+<img src="assets/images/031_digitipus.jpg">
+<img src="assets/images/034_digitipus.jpg">
+</div>
+<br>
 
 #### Lineup
 
@@ -127,21 +137,22 @@ Régis Gueyffier et Erik Delgedère : Batterie
 ### 2020
 
 Janvier 2020, sortie du 3 ème album au nom mystérieux &quot;Malibu Sheba Wasabi Bleu&quot;. La
-production du groupe est remarquée part le label M&amp;O music qui accompagne la re-sortie de
+production du groupe est remarquée par le label M&amp;O music qui accompagne la re-sortie de
 l’album en février 2021. On retrouve toutes les préférences de la bande dans un déluge de riffs
 acides et de basses bondissantes. Avec le trio « historique », c’est Régis Gueyffier qui tient les
 baguettes. Principaux titres: «soldat soda», «la verte vallée», «l’organe contraire», «Chérie Six».
 <br>
-<img src="assets/images/002_digitipus.jpg" width="33%">
-<img src="assets/images/003_digitipus.jpg" width="33%">
-<img src="assets/images/005_digitipus.jpg" width="33%">
-<img src="assets/images/021_digitipus.jpg" width="33%">
-<img src="assets/images/023_digitipus.jpg" width="33%">
-<img src="assets/images/025_digitipus.jpg" width="33%">
-<img src="assets/images/040_digitipus.jpg" width="50%">
-<img src="assets/images/041_digitipus.jpg" width="49%">
-
-
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr))">
+<img src="assets/images/002_digitipus.jpg">
+<img src="assets/images/003_digitipus.jpg">
+<img src="assets/images/005_digitipus.jpg">
+<img src="assets/images/021_digitipus.jpg">
+<img src="assets/images/023_digitipus.jpg">
+<img src="assets/images/025_digitipus.jpg">
+<img src="assets/images/040_digitipus.jpg">
+<img src="assets/images/041_digitipus.jpg">
+</div>
+<br>
 
 #### Lineup
 
