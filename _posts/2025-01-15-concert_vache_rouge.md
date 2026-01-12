@@ -17,15 +17,13 @@ image: assets/images/banniere_vache_rouge.jpg
 
 <!-- Content -->
 <div class="box alt">
-    <div class="row 50% uniform">
+    <div class="image-board">
         {% assign photos = site.static_files | where: "image", true %}
             {% for image in photos %}
                 {% if image.name contains "vache_rouge" %}
-                <div class="4u">
-                        <span class="image fit">
+                        <span class="image-board-item">
                             <img src=" {{ site.baseurl }}{{ image.path }}" alt="" />
                         </span>
-                </div>
                 {% endif %}
             {% endfor %}
 

@@ -2,8 +2,7 @@
 title: Digitipus In Nazoo
 subtitle:
 description:
-baseurl: "/site-digit" # the subpath of your site, e.g. /blog
-url: digitipusinnazoo.fr # the base hostname & protocol for your site
+url: https://digitipusinnazoo.fr # the base hostname & protocol for your site
 author: Digitipus In Nazoo
 
 # homepage tiles

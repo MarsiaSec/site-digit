@@ -20,14 +20,12 @@ nav-menu: true
             <img src="{% link assets/images/banner.jpg %}" alt="" />
         </span>
 <div class="box alt">
-    <div class="row 50% uniform">
+    <div class="image-board">
         {% assign photos = site.static_files | where: "image", true %}
             {% for image in photos %}
-                <div class="4u">
-                        <span class="image fit">
+                        <span class="image-board-item">
                             <img src=" {{ site.baseurl }}{{ image.path }}" alt="" />
                         </span>
-                </div>
             {% endfor %}
     </div>
 </div>

@@ -1,0 +1,26 @@
+$max-single-width: 560px;
+
+.fb-post-item {
+  width: 100%;
+  margin: 0 auto;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #000;
+  grid-column: 1 / -1;
+  max-width: $max-single-width;
+
+
+  iframe {
+    width: 100%;
+    min-height: 650px;
+    border: 0;
+    display: block;
+  }
+}
+
+.post-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 20px;
+  padding: 20px;
+}
