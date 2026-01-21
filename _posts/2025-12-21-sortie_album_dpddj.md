@@ -1,7 +1,7 @@
 ---
 layout: news
 title: Des Personnages Dans Des Jardins
-description: Sortie du nouvel album « Des Personnages Dans Des Jardins ».
+description: Sortie du nouvel album « Des Personnages Dans Des Jardins » le 3 janvier 2026.
 image: assets/images/pochette_dpddj.jpg
 ---
 

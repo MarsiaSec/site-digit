@@ -6,3 +6,4 @@ Gemfile.lock
 .jekyll-cache
 images.raw/
 .tool-versions
+.DS_Store
