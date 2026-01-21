@@ -1,4 +1,4 @@
-name: Build and Deploy Jekyll to FTP
+name: Build and Deploy Jekyll via SFTP (Password)
 
 on:
   push:
@@ -20,17 +20,17 @@ jobs:
           bundler-cache: true
 
       - name: Build Jekyll site
-        run: |
-          bundle exec jekyll build
+        run: bundle exec jekyll build
         env:
           JEKYLL_ENV: production
 
-      - name: 📂 Sync files to FTP
-        uses: SamKirkland/FTP-Deploy-Action@v4.3.5
+      - name: 🚀 Deploy via SFTP
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.4
         with:
-          server: ${{ secrets.FTP_SERVER }}
-          port: 22
+          server: ${{ secrets.FTP_HOST }}
           username: ${{ secrets.FTP_USERNAME }}
           password: ${{ secrets.FTP_PASSWORD }}
-          local-dir: ./_site/
-          server-dir: ./www/
+          port: 22
+          local_path: './_site/*'
+          remote_path: /home/digitiz/www
+          delete_remote_files: false # Set to true if you want to wipe the server folder before uploading
