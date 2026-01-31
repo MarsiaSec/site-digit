@@ -70,7 +70,7 @@ nav-menu: true
             </p>
             <p>
                 Enregistrée au studio Grange en septembre 1991 sous la houlette de Yves Rotacher ancien
-                batteur du groupe lyonnais Ganafoul. le titre &quot;La danse du couteau&quot; est le titre emblématique
+                batteur du groupe lyonnais Ganafoul, le titre &quot;La danse du couteau&quot; est le titre emblématique
                 qui marquera de son empreinte le style Digitipus de ceux que l’on appelle désormais les « Digits ».
             </p>
             <p>
