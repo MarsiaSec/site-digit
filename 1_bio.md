@@ -119,7 +119,7 @@ d&#39;album et de concerts.
 
 ### 2015
 
-Août 2015, sortie de l&#39;album &quot;L&#39;éternité la pluie&quot; (13 titres), Avec le quatuor d’origine. On
+Août 2015, sortie de l&#39;album &quot;L&#39;éternité la pluie&quot; (13 titres), avec le quatuor d’origine. On
 retrouve dans cet album toute l’alchimie du groupe avec des titres comme «Exode acide»,
 «9h54», «le serment du vendeur de vent» ou encore «Emma Aime». Le groupe est de
 retour sur la scène du Ninkasi Kao à 2 reprises au printemps 2016. L’univers graphique de
